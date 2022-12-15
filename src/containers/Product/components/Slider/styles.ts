@@ -5,7 +5,7 @@ export default styled.div`
     height: 100vh;
   }
   .sliderImg {
-    background-image: url('https://gvn360.com/wp-content/uploads/2020/07/d6f28492b786d1ee2fdc5296f4c21848-1.jpg');
+    background-image: url('https://wallpaperaccess.com/full/2593042.jpg');
     height: 100vh;
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */

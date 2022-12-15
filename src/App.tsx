@@ -2,7 +2,7 @@ import MainWrapper from './Main';
 import Routes from 'routes';
 
 const App = () => {
-  document.title = 'Spider Shop';
+  document.title = 'Hoang Shop';
   return (
     <MainWrapper>
       <Routes />
